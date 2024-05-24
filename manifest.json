@@ -1,11 +1,11 @@
 {
-    "name": "flutter_eduapp_new",
-    "short_name": "flutter_eduapp_new",
+    "name": "Abiturient Minsk",
+    "short_name": "Abiturient Minsk",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Приложение 'Абитуриент Минск' разработано для оказания помощи поступающим и абитуриентам в выборе будущей профессии.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
